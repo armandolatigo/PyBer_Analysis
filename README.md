@@ -14,13 +14,14 @@ The purpose of the analysis was to see which markets were in need of more compan
 
 ### City Data
 
-IMG
+<img width="610" alt="Screen Shot 2021-11-29 at 7 39 27 PM" src="https://user-images.githubusercontent.com/92451164/143972016-5da00e44-36c8-4873-b71a-efa55afc72fe.png">
+
 
 As expected, the rural market has scarcity price issue.  Less drivers and the demand for PyBer services would seem high since the price per driver and per ride exceed those of suburban and urban markets
 
 ### Timeline Data
 
-IMG
+![PyBer_fare_summary](https://user-images.githubusercontent.com/92451164/143972034-520d8804-ee97-49a6-82f0-c088f80c0e6e.png)
 
 -Urban market fares have an incremental result with major shifts but remain higher than from then beginnning of the data
 -Suburban market fares have shown a similar result to the urban market.  Less major shifts but major leaps in two points of time.
